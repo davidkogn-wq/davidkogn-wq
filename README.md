@@ -14,17 +14,17 @@ I am currently available for **freelance commissions** and fixed-price developme
 ### 1. Context-Aware PDF Assistant (RAG)
 An AI chat application that allows users to upload dense technical PDFs (datasheets, contracts) and ask natural language questions. 
 * **Tech:** Python, FAISS (Vector Indexing), LangChain, LLM API
-* **Live Demo:** [Insert Streamlit/HF Link] | **Code:** [Insert Repo Link]
+* **Live Demo:** [https://pdf-rag-assistant-aoamjuc5f4d5dmvopaxecv.streamlit.app] 
 
 ### 2. IoT Sensor Anomaly Dashboard
 A real-time monitoring tool designed to catch hardware failures before they happen. Processes live simulated telemetry (voltage, temperature) and uses ML to flag operational anomalies.
 * **Tech:** Scikit-learn (IsolationForest), Plotly, Streamlit
-* **Live Demo:** [Insert Streamlit/HF Link] | **Code:** [Insert Repo Link]
+* **Live Demo:** [https://iot-anomaly-detector-jfktdmgvgaqkdaskd4pvyz.streamlit.app]
 
 ### 3. NLP Business Intelligence Extractor
 A lightweight NLP tool for e-commerce owners. Ingests raw CSV customer reviews, scores sentiment, and automatically clusters negative reviews into actionable business complaints.
 * **Tech:** Hugging Face (DistilBERT), KeyBERT, Pandas
-* **Live Demo:** [Insert Streamlit/HF Link] | **Code:** [Insert Repo Link]
+* **Live Demo:** [https://customer-review-extractor-fhqsvrwg7i3bappqbyqo5hc.streamlit.app]
 
 ## 📫 Let's Work Together
 Need a custom AI tool, a data automation script, or a hardware-software prototype? Let's talk.
